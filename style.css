@@ -6,7 +6,7 @@ body{
 }
 .wrapper{
     padding:30px;
-/*    background-image:url(images/water-1330252_960_720.jpg);*/
+    background-image:url(images/water-1330252_960_720.jpg);
     width:100%;
     height:100%;
     background-size:cover;
@@ -17,7 +17,7 @@ body{
 
 .wrapper-sec{
     padding:30px;
-/*    background-image:url(images/sec.jpg);*/
+    background-image:url(images/sec.jpg);
     width:100%;
     height:100%;
     background-size:cover;
@@ -27,7 +27,7 @@ body{
 }
 .wrapper-third{
     padding:30px;
-/*    background-image:url(images/images.jpg);*/
+    background-image:url(images/images.jpg);
     width:100%;
     height:100%;
     background-size:cover;
@@ -61,4 +61,7 @@ body{
     top:0;
     right: 0;
     
+}
+.text{
+    font-size:50px;
 }
