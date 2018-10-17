@@ -56,3 +56,9 @@ body{
     flex: 1;
     align-self: center;
 }
+.img-area1-img{
+    position: absolute;
+    top:0;
+    right: 0;
+    
+}
