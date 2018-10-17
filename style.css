@@ -43,3 +43,16 @@ body{
 .text{
     align-self: center;
 }
+.area3{
+    display: flex;
+    flex-direction: column;
+    
+}
+.area-p-area-third{
+    flex:1;
+    align-self: center;
+}
+.area-title-third{
+    flex: 1;
+    align-self: center;
+}
